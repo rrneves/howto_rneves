@@ -1,0 +1,46 @@
+be-mean - instagram - aula 1
+
+instalaçao adicional
+
+https://github.com/tylerbrock/mongo-hacker
+
+chat de acompanhamento do curso
+
+http://be-mean.rocket.chat/home
+
+github do curso
+
+https://github.com/Webschool-io/be-mean-instagram
+
+apostila mongo-db
+
+https://github.com/mjr/be-mean-instagram/tree/master/apostila/mongodb
+
+atualizar-repositorio-forkado.md
+===================================
+
+git remote add upstream https://github.com/Webschool-io/be-mean-instagram.git
+
+git fetch upstream
+
+inseri arquivos/alterarções e executa:
+
+git checkout master
+
+git merge upstream/master
+
+
+git push -f origin master
+
+Da segunda vez, não precisa dar o remote add upstream
+
+
+https://mongodbwise.wordpress.com/2014/05/22/mongodb-guia-rapido/
+
+https://mongodbwise.wordpress.com/2014/05/15/databases-documents-and-collections-no-mongodb/
+
+https://mongodbwise.wordpress.com/2014/05/16/mongodb-startup-troubleshooting-unexpected-shutdown-address-already-in-use-for-port/
+
+https://github.com/Webschool-io/be-mean-instagram/blob/master/apostila/classes/mongodb/class-02-resolved.md#estrutura
+
+se vc usar backticks o código fica formatado:
