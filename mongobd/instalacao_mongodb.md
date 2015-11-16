@@ -84,4 +84,6 @@ Desinstalar o serviço no windows
 
 "D:\mongodb\bin\mongod.exe" --remove
 
+Veja também o documento no git para configurar o mongo-hacker no windows: https://github.com/rrneves/howto_rneves/blob/master/mongobd/mongo_hacker_on_windows.md
+
 fonte: https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/

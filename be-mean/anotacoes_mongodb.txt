@@ -43,4 +43,12 @@ https://mongodbwise.wordpress.com/2014/05/16/mongodb-startup-troubleshooting-une
 
 https://github.com/Webschool-io/be-mean-instagram/blob/master/apostila/classes/mongodb/class-02-resolved.md#estrutura
 
+http://mongodb.machinario.com/
+
+http://jordankobellarz.github.io/mongodb/2015/08/07/mongodb-write-concern.html
+
 se vc usar backticks o código fica formatado:
+
+retorno formatado para o find:
+
+db.pokemons.find({}).pretty() 
