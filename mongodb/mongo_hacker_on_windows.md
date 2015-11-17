@@ -12,7 +12,7 @@ DBQuery.prototype._prettyShell = true
 
 Abra novamente o console do mongodb e execute uma pesquisa qualquer, o resultado será muito mais legível.
 
-##Acionando o mongo-hacker para obter saida foratada e colorizada
+##Acionando o mongo-hacker para obter saida formatada e colorizada
 
 Na pasta $HOME do windows crie um arquivo com o nome .mongorc.js, coloque o conteudo disponivel em:
 
@@ -22,7 +22,15 @@ Faça o download do arquivo ansi166.zip
 
 https://github.com/adoxa/ansicon/releases/download/v1.66/ansi166.zip
 
-Descompacte o arquivo em uma pasta de seu computador, e coloque o caminho da masma na varíavel de ambiente path, do windows, e a mágica esta pronta
+Descompacte o arquivo em uma pasta de seu computador, e coloque o caminho da masma na varíavel de ambiente path, do windows, e a mágica esta feira.
+
+**Atenção:**  essa alteração no console normal do command ou do powershell tem um resultado horrível, utilize um console alternativo, o que encontrei de melhor por enquanto é o conemu, 
+
+Bastante configurável, permite centralizar suas janelas de console sem poluir a área de trabalho, abre cmd, powershell e gitbash e possui diversos esquemas de cor pré configurados para você escolher..
+
+http://conemu.github.io
+
+Abaixo cópia do arquivo de configuração do mongohacker, caso tenha algum problema por favor consulte o link original.
 
 mongo-hacker-config
 
