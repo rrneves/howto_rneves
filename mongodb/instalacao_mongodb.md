@@ -1,6 +1,6 @@
 mongodb - instalação windows
 
-1) Pré requisitos: Windows Server 2008 R2, Windows 7 ou superior, versões de 32 ou 64bits, sempre que possível utilize a versão 64.  Apesar de eventualmente funcionar no server 2003, consulte a documentação, é desaconselhável na medidade que que este SO não tem mais suporte ou atualização.
+1) Pré requisitos: Windows Server 2008 R2, Windows 7 ou superior, versões de 32 ou 64bits, sempre que possível utilize a versão 64.  Apesar de eventualmente funcionar no server 2003, consulte a documentação, é desaconselhável na medida que este SO não tem mais suporte ou atualização.
 
 2) Para determinar a versão SO onde será instalado o servidor execute os seguintes comandos no prompt do DOS ou no powershell
 
@@ -9,7 +9,7 @@ wmic os get osarchitecture
 
 3) Faça o download da versão adequada do mongodb para o seu caso no endereço: https://www.mongodb.org/downloads?_ga=1.37022885.48052022.1445543724#production
 
-   Você pode fazer o download do versão compactada ou instalador windows, não faz diferença qual delas vai utilizar na medida em que o mongodb é autocontido, ou seja tudo será instalado em uma única pasta sem dependências externas do Sistema Operacional.
+   Você pode fazer o download do versão compactada ou instalador windows, não faz diferença qual delas vai utilizar já que o mongodb é autocontido, ou seja tudo será instalado em uma única pasta sem dependências externas do Sistema Operacional.
    
 4) O padrão de instalação assume que o software e a pasta de dados ficam no disco principal do seu computador: o drive c:, como esse tipo de instalação pode não ser interessante, seja por questões de tempo de acesso ou espaço disponível. 
 
@@ -28,7 +28,7 @@ wmic os get osarchitecture
    
    caso tenha feito o download compactado descompacte e mova os arquivos para a pasta d:\mongodb
 
-   Para maiores iformações das opções de instalação consulte: https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows
+   Para maiores informações das opções de instalação consulte: https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows
    
    Programs isntalados na pasta bin:
    
@@ -55,18 +55,18 @@ net:
    bindIp:       127.0.0.1
    port:         27017
    
-ATENÇÃO: Não utilize tab e sim espaço para identação. Este são parâmetros básicos do mongodb que você pode querer alterar por segunrança ou comodidade em sua rede local.
+ATENÇÃO: Não utilize tab e sim espaço para identação. Este são parâmetros básicos do mongodb que você pode querer alterar por segurança ou comodidade em sua rede local.
 
-Esta configuração diz ao servidor para aceitar conexões apenas no localhost e na porta padrão, para permitir acesso a partir de outras estações de trabalho altere o bind, caso utilize outra porta não esquecça de libera-la no firewall e infoma-la ao carregar o client.
+Esta configuração diz ao servidor para aceitar conexões apenas no localhost e na porta padrão, para permitir acesso a partir de outras estações de trabalho altere o bind, caso utilize outra porta não esqueça de libera-la no firewall e informa-la ao carregar o client.
 
  
 6A) Executando o servidor no terminal, abra o powersell e digite:
 
 d:\mongodb\bin\mongod -f d:\mongodb\bin\mongo.cfg
 
-lembre-se que você ode economizar digitação colocando o caminho dos executáveis na variável de ambinete PATH do windows, isso não se aplica para o arquvio de configuração, então voce pode optar se posicionar na pasta d:\mongodb\bin antes de subir o servidor.
+lembre-se que você pode economizar digitação colocando o caminho dos executáveis na variável de ambinete PATH do windows, isso não se aplica para o arquivo de configuração, então você pode optar se posicionar na pasta d:\mongodb\bin antes de subir o servidor.
 
-6B) Executando o servidro como serviço no windows
+6B) Executando o servidor como serviço no windows
 
 para instalar o servico execute o terminal ( cmd ou powershell como administrador e execute o seguinte comando:
 
