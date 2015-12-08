@@ -14,7 +14,7 @@ Desinstalar o serviço no windows
 "C:\mongodb\bin\mongod.exe" --remove
 ```
 
-Se você estiver executando o servidor mongodb numa instância do shell ( cmd ou powershell inicie o client mongo.exe e execute os seguintes comandos:
+Se você estiver executando o servidor mongodb numa instância do shell ( cmd ou powershell ), inicie o client mongo.exe e execute os seguintes comandos:
 
 ```
 use admin
@@ -24,6 +24,6 @@ exit
 
 Após isso apenas finalize as janelas do shell onde o servidor e o client estavam em execução.
 
-ATENÇÃO: interromper o servidor com CTRL-C até funciona mas pode danificar suas coleções.
+**ATENÇÃO**: interromper o servidor com CTRL-C até funciona mas pode danificar suas coleções.
 
 fonte: https://docs.mongodb.org/manual/

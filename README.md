@@ -15,6 +15,6 @@ pastas:
 
 **windows - dicas e truques útei do sistema operacional**
 
- 1. limpar arquivos do spool de impresso
+ 1. limpar arquivos travados do spool de impressão windows
 
 **x_extras - contribuições externas**
