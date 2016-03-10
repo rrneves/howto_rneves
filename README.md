@@ -1,6 +1,6 @@
 # howto_rneves
 
-ReEpositório para organizar material de estudo br-eman e informações úteis para diversas ocasiões.  Deve servir de base para publicação de homepage pessoal no ambiente git.
+Repositório para organizar material de estudo be-eman e informações úteis para diversas ocasiões
 
 pastas:
 ###**artigos**

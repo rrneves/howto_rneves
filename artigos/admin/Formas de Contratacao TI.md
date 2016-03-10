@@ -1,7 +1,7 @@
 Formas de Contratação para TI
 =========================
 
-Este documento procura responder algumas duvidas levantadas por colegas no que diz respeito as diferenças de contratação de serviços TI, e esclarecer quem é o sócio majoritário do seu trabalho.
+Este documento procura responder algumas duvidas levantadas por colegas de estudo do BE-MEAN no que diz respeito as diferenças de contratação de serviços TI, e esclarecer quem é o sócio majoritário do seu trabalho.
 
 Tirando a usual venda dos seus serviços sem contrato, onde usa unica garantia é a palavra do contrante, restam duas opções possíveis, CLT e PJ (Pessoa Jurídica), com grandes diferenças de custos, impostos e do valor que efetivamente fica no seu bolso.
 
@@ -30,6 +30,7 @@ Vejamos como fica esse calculo anualizado, para incluir o adicional de férias e
 |Vale transporte| 7,60|
 
 **Extrato do empregado**
+
 |Descrição|Valor|
 |:------------------------------------------------|----------:|
 |Salários (4.000,00 x 12)|48.000,00
@@ -55,6 +56,7 @@ Vejamos como fica esse calculo anualizado, para incluir o adicional de férias e
 |Total anual líquido, com FGTS|46.352,45|
 
 **Extrato da empresa**
+
 |Descrição|Valor|
 |:------------------------------------------------|----------:|
 |Salários: (4.000,00 x 12)|48.000,00|
@@ -96,19 +98,36 @@ O primeiro problema burocrático é que você fica limitado a atuar dentro do c�
 |6319-4/00|Portais, Provedores de Conteúdo e Outros Serviços de Informação na Internet|
 |9329-8/04|Exploração de Jogos Eletrônicos Recreativos|
 
-A principal vantagem como como PJ é que você recebe integralmente o valor combinado com o contratante, podendo negociar parte da diferença do exemplo CLT entre o que você recebe e o que voce realmente custa, no entanto a bronca de impostos e burocracia é sua.  
+A principal vantagem  como PJ é que você recebe integralmente o valor combinado com o contratante, podendo negociar parte da diferença do exemplo CLT entre o que você recebe e o que você realmente custa, no entanto a bronca de impostos e burocracia é sua.  
 
 Como PJ você pode se enquadrar em uma das seguintes categorias:
 
-MEI - Microemprendedor Individual - pode atuar apenas com o primeiro bloco de códigos CNAE e não pode emitir mais de 60.000,00 em nota fical por ano.
+**MEI** - Microemprendedor Individual - pode atuar apenas com o primeiro bloco de códigos CNAE e não pode emitir mais de 60.000,00 em nota fical por ano.
 
-ME - Micro Empresa com as mesmas atividades da MEI e inscrita no simples, custo em impostos de 6% do seu faturamento até o limite de 180.000,00/ano, 13 mensalidades de despesa do contador,  
+**ME Restrita** - Micro Empresa com as mesmas atividades da MEI e inscrita no simples, custo em impostos de 6% do seu faturamento até o limite de 180.000,00/ano, 13 mensalidades de despesa do contador,  
 
-ME - Micro Empresa com todas as atividades e inscrita no simples,  custo em impostos de 16,% do seu faturamento até o limite de 180.000,00/ano, 13 mensalidades de despesa do contador,  
+**ME Completa** - Micro Empresa com todas as atividades e inscrita no simples,  custo em impostos de 16,93% do seu faturamento até o limite de 180.000,00/ano, 13 mensalidades de despesa do contador,  
 
-|TIPO CNPJ|Valor contrato|Imposto|Contador|Saldo Anual|
+*A classificação restrita e completa não existe oficialmente, foi utilizada neste contesto para diferenciar a ME pelo percentual de imposto e CNAE a ser utilizado.
+
+Efeito de comparação vamos anualizar os ganhos PJ considerando os valores diretos da simulação CLT: o valor do contrato mensal e do vale transporte e vale refeição.
+
+|TIPO CNPJ|Valor Anual|Imposto|Contador|Saldo Anual|
 |:------|----:|----:|----:|----:|
-|MEI|4.000,00|50,00|0,00|47.400,00|
-|ME restrita|4.000,00|240,00|300,00|41.520,00|
-|ME completa|4.000,00|677,20|300,00|36.273,60|
+|MEI|55.661,00|600,00|0,00|55.061,00|
+|ME restrita|55.661,00|3.339,66|3.900,00|48.421,34|
+|ME completa|55.661,00|9.423,41|3.900,00|42.337,59|
 
+No caso da MEI, a contratação de um contador é dispensável, na ME considerei o custo mas isso é opcional, lembre-se apenas que a burocracia de abertura da empresa, e todo o resto fica por sua conta e eventualmente sua hora de trabalho vale muito mais que isso.  Se você tiver um funcionário contratado então nem se fala.
+
+**Importante**: no quesito contador você deve pagar apenas a mensalidade dos serviços contratados, **NUNCA** envie o dinheiro para recolhimento de impostos, essa responsabilidade é sua e se você delegar a vitima será você.
+
+**Conclusão**:  Contratação PJ só é vantagem se você negociar com seu contratante a divisão dos custos extras da CLT, especialmente se você tiver que partir para ME.
+
+Isso pode ocorrer por estouro no limite de 60.000,00/ano da MEI ou por exigência de nota com CNAE restrito onde o imposto chega a quase 17% na faixa inicial de faturamento, em quanquer dos cavos você precisa negociar no minimo o repasse desse custo adicional para o contratante
+
+O Sebrae vem tentado alterar o limite anual da MEI a pelos menos 3 anos, sem sucesso pois o governo federal não que abrir mão da receita desse imposto.
+
+Para duvidas e comentários sinta-se a vontade para contactar-me pelo email rneves@equacao.com .br ou no telegram.
+
+Reinaldo Neves
