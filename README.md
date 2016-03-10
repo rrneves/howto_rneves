@@ -1,20 +1,24 @@
 # howto_rneves
 
-Material de estudo e informaÁıes uteis para diversas ocasiıes e aplicativos
+ReEposit√≥rio para organizar material de estudo br-eman e informa√ß√µes √∫teis para diversas ocasi√µes.  Deve servir de base para publica√ß√£o de homepage pessoal no ambiente git.
 
 pastas:
+###**artigos**
+* admin
+1. Formas de Contrata√ß√£o TI
+2. Como precificar desenvolvimento de aplica√ß√£o
 
-**be-mean - anotaÁıes pessoais do curso be-mean-instagram**
+* auditoriaEndere√ßos
 
-**mongodb - banco nosql em estudo**
+###**be-mean - anota√ß√µes pessoais do curso be-mean-instagram**
 
- 1. Instalar o mongodb no windows em  drive e pasta diferente do padr„o
+###**mongodb - banco nosql em estudo**
+ 1. Instalar o mongodb no windows em  drive e pasta diferente do padr√£o
  2. Instalar o mongo-hacker para uso no powershell 
  3. Alterar o prompt do mongo shell
  4. Parar o servidor mongodb
 
-**windows - dicas e truques ˙tei do sistema operacional**
+###**windows - dicas e truques √∫tei do sistema operacional**
+ 1. limpar arquivos travados do spool de impress√£o windows
 
- 1. limpar arquivos travados do spool de impress„o windows
-
-**x_extras - contribuiÁıes externas**
+###**x_extras - contribui√ß√µes externas**
